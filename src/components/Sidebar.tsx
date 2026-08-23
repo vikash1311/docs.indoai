@@ -14,7 +14,9 @@ const Aside = styled.aside`
     border-right: none;
     border-bottom: 1px solid ${theme.colors.border};
     padding: 28px 24px;
+    order: 2;
   }
+
 `;
 
 const Tree = styled.nav`

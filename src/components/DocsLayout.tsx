@@ -19,6 +19,7 @@ const Main = styled.main`
 
   @media (max-width: 900px) {
     padding: 32px 24px 80px;
+    order: 1;
   }
 `;
 
