@@ -1,0 +1,3 @@
+// Auto-generated from legacy HTML by scripts/extract-pages.py
+export const title = "False Detection Reduction";
+export const html = "<h1>False Detection Reduction</h1>\n      <hr class=\"rule\" />\n      <p>Object recognition using deep learning can never be 100% accurate.</p>\n      <p>Because of this, a number of tools are provided to help reduce false detections and the false alarms they cause.</p>\n      <p>Please review the features below and add the settings that help reduce false detections for your setup.</p>\n\n      <ul class=\"steps\">\n        <li><a href=\"/object-size-filter\">Object Size Filter</a></li>\n        <li><a href=\"/exclusion-area\">Exclusion Area</a></li>\n      </ul>";

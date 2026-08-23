@@ -1,0 +1,3 @@
+// Auto-generated from legacy HTML by scripts/extract-pages.py
+export const title = "Cloud Application Integration Setting";
+export const html = "<h1>Cloud Application Integration Setting</h1>\n      <hr class=\"rule\" />\n\n<p>The Cloud application provides a range of useful features on top of AI Bridge, including a browser-based alarm console, basic statistical data visualization, and mobile messenger integration through the cloud server.</p>\n\n<p>To use the Cloud application, complete the integration setup by following the <a href=\"https://docs.indoai.com/docs/cloud-application-setting/\">Cloud Application User Guide</a>.</p>";
